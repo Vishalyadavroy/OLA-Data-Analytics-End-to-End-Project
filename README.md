@@ -5,6 +5,12 @@
 ## Project Objective
 - To analyze Ola ride data and generate insights on customer trends, revenue performance, and operational efficiency. The goal was to build a data-driven dashboard for stakeholders to track key KPIs and make informed business decisions.
 
+## DATASET USED 
+- - <a href="https://github.com/Vishalyadavroy/Data-Analysis-Dashboard./blob/main/Amazon_Sales_Data.xlsx">Dataset</a>
+
+
+
+
  ## 1️⃣ Data Collection & Understanding
 
 - Gathered Ola ride data (trips, customers, drivers, payments).
@@ -36,13 +42,13 @@
 - ⭐ Driver Ratings Distribution
 - 💳 Payment Method Analysis
 
-  ## 📊 Key Insights
-  -  Digital payments (UPI & cards) dominate over cash.
-  - Tier-1 cities contribute 65% of total revenue.
-  - Top 10% drivers contribute to 40% of rides.
-  - Repeat customers form the major revenue backbone.
+ ## 📊 Key Insights
+-  Digital payments (UPI & cards) dominate over cash.
+ - Tier-1 cities contribute 65% of total revenue.
+ - Top 10% drivers contribute to 40% of rides.
+ - Repeat customers form the major revenue backbone.
  
-  ## 🛠 Tools & Tech Stack
+ ## 🛠 Tools & Tech Stack
 
 - SQL: Data Cleaning & Transformation
 - Excel: Data Validation & Initial Analysis
