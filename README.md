@@ -1,4 +1,4 @@
-# OLA-Data-Analytics-End-to-End-Project
+# OLA-Data-Analytics-End-to-End-Project  | Data Analytics SQL, Excel & PowerBI Dashboard Project
 
 ## Project Objective
 - The objective of this project is to analyze Ola’s ride data using SQL, Excel, and Power BI to uncover meaningful insights that can drive business growth and operational efficiency. The focus is on understanding customer behavior, ride booking trends, payment preferences, and driver performance across different cities. By transforming raw datasets into structured, validated, and clean information, the project ensures reliable insights that can help optimize pricing strategies, improve customer retention, and enhance overall service quality..
