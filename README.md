@@ -26,15 +26,27 @@
 
 ## 4️⃣ Dashboard Creation (Power BI)
 
-# Designed an interactive Power BI dashboard with the following KPIs:
+## Designed an interactive Power BI dashboard with the following KPIs:
 
-🚖 Total Rides
-💰 Total Revenue & Avg. Fare per Ride
-📍 Top 5 Cities by Revenue
-⏰ Peak Booking Hours
-👤 New vs Returning Customers
-⭐ Driver Ratings Distribution
-💳 Payment Method Analysis
+- 🚖 Total Rides
+- 💰 Total Revenue & Avg. Fare per Ride
+- 📍 Top 5 Cities by Revenue
+- ⏰ Peak Booking Hours
+- 👤 New vs Returning Customers
+- ⭐ Driver Ratings Distribution
+- 💳 Payment Method Analysis
+
+  ## 📊 Key Insights
+  -  Digital payments (UPI & cards) dominate over cash.
+  - Tier-1 cities contribute 65% of total revenue.
+  - Top 10% drivers contribute to 40% of rides.
+  - Repeat customers form the major revenue backbone.
+ 
+  ## 🛠 Tools & Tech Stack
+
+- SQL: Data Cleaning & Transformation
+- Excel: Data Validation & Initial Analysis
+- Power BI: Dashboard & Visualization
 
 
 
