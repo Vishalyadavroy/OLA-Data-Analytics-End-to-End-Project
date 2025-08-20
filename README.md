@@ -1,15 +1,13 @@
 # OLA-Data-Analytics-End-to-End-Project
-## Tools Used: 
-- SQL | Excel | Power BI
 
 ## Project Objective
-- To analyze Ola ride data and generate insights on customer trends, revenue performance, and operational efficiency. The goal was to build a data-driven dashboard for stakeholders to track key KPIs and make informed business decisions.
+- The objective of this project is to analyze Ola’s ride data using SQL, Excel, and Power BI to uncover meaningful insights that can drive business growth and operational efficiency. The focus is on understanding customer behavior, ride booking trends, payment preferences, and driver performance across different cities. By transforming raw datasets into structured, validated, and clean information, the project ensures reliable insights that can help optimize pricing strategies, improve customer retention, and enhance overall service quality..
 
 ## DATASET USED 
-- - <a href="https://github.com/Vishalyadavroy/Data-Analysis-Dashboard./blob/main/Amazon_Sales_Data.xlsx">Dataset</a>
+- <a href="https://github.com/Vishalyadavroy/OLA-Data-Analytics-End-to-End-Project/blob/main/Bookings-100000-Rows.zip">ExcelSheet</a>click on me
 
-
-
+## DASHBOARD INTERACTION 
+- <a href="https://github.com/Vishalyadavroy/OLA-Data-Analytics-End-to-End-Project/blob/main/DASHBOARD_PHOTOS.zip">ExcelSheet</a>click on me
 
  ## 1️⃣ Data Collection & Understanding
 
@@ -53,6 +51,17 @@
 - SQL: Data Cleaning & Transformation
 - Excel: Data Validation & Initial Analysis
 - Power BI: Dashboard & Visualization
+
+## Dashboard View 
+<img width="1744" height="982" alt="Screenshot 2025-08-21 003427" src="https://github.com/user-attachments/assets/3edf6ba6-5e7e-4e6a-85f4-ac7ff591ba10" />
+<img width="1673" height="943" alt="Screenshot 2025-08-21 003445" src="https://github.com/user-attachments/assets/f757467e-c091-4830-8388-0651b9334fda" />
+<img width="1648" height="936" alt="Screenshot 2025-08-21 003458" src="https://github.com/user-attachments/assets/6d4b945f-172e-4b87-b417-2d687877cbe9" />
+<img width="1668" height="943" alt="Screenshot 2025-08-21 003512" src="https://github.com/user-attachments/assets/4ba8bf9f-7bf2-447f-8453-af1f75b7aabb" />
+<img width="1687" height="958" alt="Screenshot 2025-08-21 003530" src="https://github.com/user-attachments/assets/2e199200-f6f8-4191-a88a-2f69be1e045f" />
+
+
+
+
 
 
 
